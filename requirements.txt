@@ -1,0 +1,16 @@
+# CRNN 语音增强系统依赖
+
+# 核心依赖
+torch>=1.9.0
+numpy>=1.21.0
+scipy>=1.7.0
+tqdm>=4.62.0
+scikit-learn>=1.0.0
+
+# 可视化
+matplotlib>=3.5.0
+Pillow>=8.0.0
+
+# 音频处理（wav模式必需）
+librosa>=0.9.0
+soundfile>=0.10.0
